@@ -1,0 +1,15 @@
+[submodule "code-runner"]
+	path = code-runner
+	url = git@github.com:arielril/attack-graph-flow-code-runner.git
+[submodule "weight-api"]
+	path = weight-api
+	url = git@github.com:arielril/attack-graph-flow-weight-api.git
+[submodule "flowchart-api"]
+	path = flowchart-api
+	url = git@github.com:arielril/attack-graph-flow-flowchart-api.git
+[submodule "orchestrator"]
+	path = orchestrator
+	url = git@github.com:arielril/attack-graph-flow-orchestrator.git
+[submodule "ui"]
+	path = ui
+	url = git@github.com:arielril/attack-graph-flow-ui.git
