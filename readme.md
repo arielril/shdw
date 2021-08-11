@@ -11,3 +11,8 @@ To clone the repository with all it's submodules you should run the command:
 ```bash
 git clone --recurse-submodules https://github.com/arielril/attack-graph-flow
 ```
+
+
+## Resources
+
+- [Git Submodule Ref](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
