@@ -1,6 +1,6 @@
-# Attack Graph Flow
+# Shadow Blade: A Capture the Flag Tool
 
-This is a project that will help penetration testers to save their work and get suggestions to which attack path they could use.
+This is a project that will help competitors in a Capture the Flag (CTF) Competition to execute tools against a machine and generate an attack graph for a better understanding and choice of the attack path.
 
 ## Contributing
 
@@ -9,7 +9,7 @@ This is a project that will help penetration testers to save their work and get 
 To clone the repository with all it's submodules you should run the command:
 
 ```bash
-git clone --recurse-submodules https://github.com/arielril/attack-graph-flow
+git clone --recurse-submodules https://github.com/arielril/shdw
 ```
 
 
