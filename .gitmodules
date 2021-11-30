@@ -1,11 +1,11 @@
 [submodule "code-runner"]
 	path = code-runner
 	url = git@github.com:arielril/shdw-code-runner.git
-[submodule "weight-api"]
-	path = weight-api
+[submodule "weight"]
+	path = weight
 	url = git@github.com:arielril/shdw-weight.git
-[submodule "flowchart-api"]
-	path = flowchart-api
+[submodule "graph"]
+	path = graph
 	url = git@github.com:arielril/shdw-graph.git
 [submodule "orchestrator"]
 	path = orchestrator
