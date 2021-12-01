@@ -1,4 +1,4 @@
-# Shadow Blade: A Capture the Flag Tool
+# Shadow Blade - A tool to interact with attack graphs
 
 This is a project that will help competitors in a Capture the Flag (CTF) Competition to execute tools against a machine and generate an attack graph for a better understanding and choice of the attack path.
 
